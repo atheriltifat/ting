@@ -1,0 +1,10 @@
+apache2/
+cache/
+licenses/
+log/
+php/
+postgresql/
+scripts/
+storage/
+/uninstall.exe
+
